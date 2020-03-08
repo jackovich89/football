@@ -14,7 +14,7 @@ Useful links:
 * [Google Research Football Paper](https://arxiv.org/abs/1907.11180)
 * [GoogleAI blog post](https://ai.googleblog.com/2019/06/introducing-google-research-football.html)
 * [Google Research Football on Cloud](https://towardsdatascience.com/reproducing-google-research-football-rl-results-ac75cf17190e)
-* [Mailing List](https://groups.google.com/forum/#!forum/google-research-football) - please use it for communication with us (comments / suggestions / feature ideas)
+* [Mailing List](https://groups.google.com/forum/#!forum/google-research-football) - please use it for communication with us (comments / suggestions / feature ideas) Danke!!!
 
 
 For non-public matters that you'd like to discuss directly with the GRF team,
