@@ -1,4 +1,4 @@
-# 2. Feature docker file
+# 3. Feature für Docker ist nun richtig angegeben‚
 # Fix eingefügt
 
 ARG DOCKER_BASE
