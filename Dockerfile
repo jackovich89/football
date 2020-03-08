@@ -1,5 +1,5 @@
-# 3. Feature für Docker ist nun richtig angegeben‚
-# Fix eingefügt
+# 2. Feature für Docker ist nun richtig angegeben
+# 1. Fix eingefügt
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
